@@ -133,7 +133,9 @@ li a:hover {
 td {
   text-align: center;
 }
-
+a {
+    color: white;
+}
 
 
 
